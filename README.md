@@ -8,7 +8,7 @@ A public archive for short fiction and other writing drafts.
 .
 ├── README.md
 └── short-stories/
-    └── RainyGirl.md    # 《没写完的字》
+    └── RainyGirl.md
 ```
 
 ## Directories
